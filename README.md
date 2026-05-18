@@ -72,7 +72,7 @@ pip install torch numpy pandas matplotlib scikit-learn
 
 ```bash
 # 克隆仓库
-git clone github.com:Centursy/IGWO-LSTM-.git
+git clone github.com:Centursy/IGWO-LSTM.git
 cd IGWO-LSTM
 
 # 运行实验（首次运行会自动下载 ETT 数据集）
